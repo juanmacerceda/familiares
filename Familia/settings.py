@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Familia.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["C:/Users/Juanma/Desktop/familiares_final/desafio-ok/plantillas"],
+        'DIRS': ["C:\Users\Juanma\Desktop\desafio-ok\plantillas"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
